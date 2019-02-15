@@ -1,0 +1,19 @@
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.publication a {
+    color: black;
+    text-decoration: none;
+}
+
+.publication a:visited {text-decoration: none; color: black;}
+.publication a:hover   {text-decoration: none; color: mediumblue;}
+.publication a:active  {text-decoration: none; color: blue;}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
